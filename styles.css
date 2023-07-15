@@ -1,0 +1,24 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.header-logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.sub-headers,
+.hero > p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.first-section {
+    background-color: #1F2937;
+    color: white;
+}
+ 
+.hero > h1 {
+    font-size: 48px;
+    color: #F9FAF8;
+}
